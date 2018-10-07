@@ -2,4 +2,6 @@
 using namespace std;
 int main(void){
 	cout << "Shsusmi sudu tar jamai ke boka dei :-(" << endl;
+	cout << "Shusmi onek chute" << endl ;
+
 }
